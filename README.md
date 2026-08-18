@@ -8,6 +8,7 @@
 - **Mover Status:** Transfere tarefas para as listas `em andamento` ou `concluída`.
 - **Listar Tarefas:** Exibe todas as tarefas organizadas por seus respectivos status.
 
+
 ## Tecnologias Utilizadas
 
 - **JavaScript (ES6+)**
