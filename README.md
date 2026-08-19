@@ -63,4 +63,4 @@ Digite o número da opção desejada e pressione `Enter` para interagir com o si
 
 ## Licença
 
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar!
+Este projeto está sob a licença MIT.
