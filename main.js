@@ -85,7 +85,7 @@ function adicionar() {
         descricao: desc,
         status: "pendente"
       });
-      console.log(`✅ Tarefa "${desc}" adicionada!`);
+      console.log(`Tarefa "${desc}" adicionada!`);
     }
     exibirMenu();
   });
@@ -156,7 +156,7 @@ function andamento() {
       const [removida] = tarefas.splice(index, 1);
       removida.status = "em andamento";
       tarefasAndamento.push(removida);
-      console.log("⏳ Tarefa movida para 'em andamento'!");
+      console.log("Tarefa movida para 'em andamento'!");
     } else {
       console.log("Tarefa não encontrada.");
     }
